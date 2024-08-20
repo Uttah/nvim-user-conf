@@ -1,5 +1,6 @@
 return {
-  colorscheme = "tokyonight",
+  -- colorscheme = "tokyonight",
+  colorscheme = "catppuccin",
   polish = function()
     -- Get access to the lsp module and its settings
     local lsp_utils = require('astronvim.utils.lsp')
